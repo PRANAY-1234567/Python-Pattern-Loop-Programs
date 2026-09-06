@@ -12,18 +12,18 @@ for i in range(1,6,2):
     for j in range(1,i+1):
         print(num, end =" ")
         num = num + 1
-    print()"""
+    print()
 
-"""for i in range (1,6,1):
+for i in range (1,6,1):
     for j in range(i):
         print(chr(65+j), end=" ")
-    print()"""
+    print()
 
-"""
+
 for i in range (1,6,1):
     for j in range(i):
         print(chr(64+i), end=" ")
-    print()"""
+    print()
 
 
 """
