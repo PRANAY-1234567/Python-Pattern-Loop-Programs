@@ -1,6 +1,7 @@
 # 🔢 Python Pattern & Loop Programs
 
 A collection of **Python programming practice programs** focused on nested loops, number patterns, alphabet patterns, binary patterns, and different types of star patterns.
+
 This repository is designed to strengthen **logical thinking and loop-based problem-solving skills** in Python.
 
 ---
